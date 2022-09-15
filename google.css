@@ -1,0 +1,31 @@
+center {
+  text-align: center;
+  margin: 50px;
+}
+ul {
+  list-style-type: none;
+}
+.box02 {
+  float: left;
+  background-color: rgb(126, 229, 218);
+  margin: -45px 2px 2px 2px;
+  width: 30%;
+}
+
+.box01 {
+  float: left;
+  background-color: rgb(126, 229, 218);
+  width: 30%;
+  margin: -45px 2px 2px 60px;
+}
+
+p {
+  margin: auto;
+  clear: both;
+}
+.box03 {
+  background-color: rgb(126, 229, 218);
+  float: left;
+  margin: -45px 2px 2px 2px;
+  width: 25%;
+}
